@@ -6,11 +6,8 @@ package company;
 import company.ScoresWindow;
 
 public class Main {
+    //test
     public static void main(String[] args) {
-<<<<<<< HEAD
-        //test
-=======
->>>>>>> origin/master
         new ScoresWindow("成绩查询系统");
     }
 }
