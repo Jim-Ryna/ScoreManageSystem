@@ -1,19 +1,19 @@
 # ScoreManageSystem
 
 ## 基本介绍
-###一个简陋的成绩管理系统，可以实现基本的增删改查，用到了`mysql6.3`和`intellij idea2016.1.3`进行开发
+####一个简陋的成绩管理系统，可以实现基本的增删改查，用到了`mysql6.3`和`intellij idea2016.1.3`进行开发
 
 ###界面（1） 输入界面
 ####实现对成绩的录入
-![](https://github.com/Jim-Ryna/ScoreManageSystem/blob/master/input.gif)</br>
+![](https://github.com/Jim-Ryna/ScoreManageSystem/blob/master/input.gif)</br></br>
 
 ###界面（2） 查询界面
 ####实现对成绩的匹配查询，允许对数据进行删除修改
-![](https://github.com/Jim-Ryna/ScoreManageSystem/blob/master/query.gif)</br>
+![](https://github.com/Jim-Ryna/ScoreManageSystem/blob/master/query.gif)</br></br>
 
 ###界面（3） 排序界面
 ####实现对成绩的各种排序
-![](https://github.com/Jim-Ryna/ScoreManageSystem/blob/master/sort.gif)</br>
+![](https://github.com/Jim-Ryna/ScoreManageSystem/blob/master/sort.gif)</br></br></br></br>
 
 ##MySQL表总揽
 <table>
