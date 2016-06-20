@@ -23,7 +23,6 @@
 <tr><td>classno</td><td>varchar(10)</td><td>非空</td><td>唯一、主键</td></tr>
 </tbody>
 </table>
-</br>
 
 ###student
 <table>
@@ -34,7 +33,6 @@
 <tr><td>class</td><td>varchar(10)</td><td>非空</td><td>班级（外键）</td></tr>
 </tbody>
 </table>
-</br>
 
 ###objects
 <table>
@@ -43,7 +41,6 @@
 <tr><td>objname</td><td>varchar(30)</td><td>非空</td><td>唯一、主键</td></tr>
 </tbody>
 </table>
-</br>
 
 ###scores
 <table>
