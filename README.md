@@ -48,7 +48,7 @@
 <tr><td><em>列名</em></td><td><em>数据类型（精度范围）</em></td><td><em>空/非空</em></td><td><em>约束条件</em></td></tr>
 <tr><td>number</td><td>varchar(30)</td><td>非空</td><td>唯一、主键</td></tr>
 <tr><td>objkey</td><td>varchar(30)</td><td>无限制</td><td>科目名称（外键）</td></tr>
-<tr><td>number</td><td>varchar(30)</td><td>无限制</td><td>科目成绩（外键）</td></tr>
-<tr><td>number</td><td>varchar(30)</td><td>无限制</td><td>总分</td></tr>
+<tr><td>objvalue</td><td>varchar(30)</td><td>无限制</td><td>科目成绩</td></tr>
+<tr><td>total</td><td>varchar(30)</td><td>无限制</td><td>总分</td></tr>
 </tbody>
 </table>
